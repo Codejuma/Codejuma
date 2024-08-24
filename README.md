@@ -1,4 +1,4 @@
-I am Juma, a 26-year-old software engineering student at ALX. I am passionate about artificial intelligence, machine learning, and cyber security. 
+I am Juma, a software engineering student at ALX. I am passionate about artificial intelligence, machine learning, and cyber security. 
 I have a BSc in Electrical Engineering from Dedan Kimathi University, which gives me a strong understanding of the underlying hardware and software that makes computers work.
 In my studies, I have focused on mastering AI, machine learning, and cyber security. I have completed several projects in these areas, including:
 The ALX Simple Shell project, which is a command-line interpreter that I implemented in C. 
